@@ -1,0 +1,13 @@
+.weather-icon{
+    font-size: 80px !important;
+}
+.weather-app{
+    font-family: poppins;
+    background: #03346E;
+}
+
+.weather-input{
+    width: 400px;
+    outline: none;
+    border: 0;
+}
