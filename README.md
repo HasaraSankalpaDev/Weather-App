@@ -1,6 +1,27 @@
-# React + Vite
+# React + Vite 🤡:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Web Appication from HasaraSankalpaDev by using React Js with Some API. Specialy I Used a Fast React Library Called Vite. This is my Startup Self Study Project.
+
+## Getting Started 🦊:
+
+First, clone this to your system and run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+
+You can start editing the page by modifying `src/app.js`. The page auto-updates as you edit the file. 
+
+## Thank You ! :zap:
+
 
 Currently, two official plugins are available:
 
